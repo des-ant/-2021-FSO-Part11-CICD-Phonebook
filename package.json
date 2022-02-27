@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/des-ant/2021-FSO-Part3.git"
+    "url": "git+https://github.com/des-ant/2021-FSO-Part11-CICD-Phonebook"
   },
   "author": "des-ant",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/des-ant/2021-FSO-Part3/issues"
+    "url": "https://github.com/des-ant/2021-FSO-Part11-CICD-Phonebook/issues"
   },
-  "homepage": "https://github.com/des-ant/2021-FSO-Part3#readme",
+  "homepage": "https://github.com/des-ant/2021-FSO-Part11-CICD-Phonebook#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^10.0.0",
